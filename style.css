@@ -1,0 +1,11 @@
+.all li{
+   display: inline-block; 
+   justify-content: center;
+   text-decoration: none;
+   
+}
+
+.all{
+   background-color: rgb(97, 228, 173);
+
+}
